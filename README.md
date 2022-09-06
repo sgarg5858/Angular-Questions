@@ -1,6 +1,7 @@
 # Angular-Questions
 
-1. Implement Custom Async Pipe like Async Pipe (https://medium.com/its-tinkoff/angular-asyncpipe-in-depth-9a11c547b893)
+1. Implement Custom Async Pipe like Async Pipe 
+(https://medium.com/its-tinkoff/angular-asyncpipe-in-depth-9a11c547b893)
 https://github.com/angular/angular/blob/a7597dd08026a4071758323d54ccbfb382e0c780/packages/common/src/pipes/async_pipe.ts
 
 *************************************************************************************************************
