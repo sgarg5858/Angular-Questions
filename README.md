@@ -31,6 +31,8 @@ https://github.com/sgarg5858/angular-practice-project/blob/main/src/app/ng-for-p
 
 6. Implement Tabs Component like Angular Material library Practice for (Content Projection)
 
+https://www.edrawmind.com/online/map.html?sharecode=63198e778f0023a33998611
+https://github.com/sgarg5858/angular-practice-project/tree/main/src/app/tabs
 *************************************************************************************************************
 
 7. Implement APP_INTITIALIZER
